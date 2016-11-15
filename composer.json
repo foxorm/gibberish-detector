@@ -1,0 +1,27 @@
+{
+    "name": "redcatphp/gibberish-detector",
+    "description": "Determines if text contains gibberish.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+		{
+            "name": "Rob Renaud",
+            "email": "rrenaud@gmail.com"
+        },
+        {
+            "name": "Oliver Lillie",
+            "email": "buggedcom@gmail.com"
+        },
+        {
+            "name": "Jo Surikat",
+            "email": "jo@surikat.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RedCat\\GibberishDetector\\": "src"
+        }
+    }
+}

@@ -1,6 +1,8 @@
 <?php
 
-require 'Gibberish.class.php';
+require '../src/Gibberish.php';
+
+use RedCat\GibberishDetector\Gibberish;
 
 $trainingDir = 'phrases';
 $dir = dirname(__FILE__).'/'.$trainingDir.'/';

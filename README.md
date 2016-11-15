@@ -29,7 +29,12 @@ $oddsItsGoodText = Gibberish::test($inputText, $matrix_file, true);
 ## Who made it?
 
 Originally written in Python by Rob Renaud.
+<rrenaud@gmail.com> https://github.com/rrenaud/Gibberish-Detector
 
 Translated into PHP by Oliver Lillie.
+<buggedcom@gmail.com> https://github.com/buggedcom/Gibberish-Detector-PHP
 
 Spruced up by Richard512
+
+Implementation in composer by Jo Surikat
+<jo@surikat.pro> https://github.com/redcatphp/gibberish-detector
