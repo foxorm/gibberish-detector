@@ -1,5 +1,5 @@
 <?php
-namespace RedCat\GibberishDetector;
+namespace FoxORM\GibberishDetector;
 //  Copyright Oliver Lillie 2011
 //  $Id: Whitechars.php 1938 2011-06-09 13:25:22Z buggedcom $ $Rev: 1938 $
 

@@ -1,5 +1,5 @@
 {
-    "name": "redcatphp/gibberish-detector",
+    "name": "foxorm/gibberish-detector",
     "description": "Determines if text contains gibberish.",
     "type": "library",
     "license": "MIT",
@@ -21,7 +21,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "RedCat\\GibberishDetector\\": "src"
+            "FoxORM\\GibberishDetector\\": "src"
         }
     }
 }
